@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "First Name": "Ashish",
+        "Middle Name": "Kumar",
+        "Last Name": "Verma",
+        "Email": "demo24@gmail.com",
+        "Phone": "998765120",
+        "Role": "Super Admin",
+        "Address": "Mohali"
+    },
+    {
+        "id": "2",
+        "First Name": "Rahul",
+        "Middle Name": "Kumar",
+        "Last Name": "Singh",
+        "Email": "demo22@gmail.com",
+        "Phone": "7383729272",
+        "Role": "Admin",
+        "Address": "Mumbai"
+    },
+    {
+        "id": "3",
+        "First Name": "Ujjwal",
+        "Middle Name": "Prakash",
+        "Last Name": "Sharma",
+        "Email": "demo23@gmail.com",
+        "Phone": "9272027203",
+        "Role": "Subscriber",
+        "Address": "Jodhpur"
+    },
+    {
+        "id": "4",
+        "First Name": "Gagan",
+        "Middle Name": "Raj",
+        "Last Name": "Badeja",
+        "Email": "demo25@gmail.com",
+        "Phone": "8362902735",
+        "Role": "Super Admin",
+        "Address": "Pune"
+    }
+]
